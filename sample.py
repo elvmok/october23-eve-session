@@ -3,5 +3,6 @@ b=6
 c=34
 d=89
 e=90
-sum=a+b+c+d
+f=88
+sum=a+b+c+d+e+f
 
